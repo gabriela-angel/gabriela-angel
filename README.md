@@ -12,7 +12,7 @@ I'm Gabriela Angel, a software engineering student at 42 São Paulo. Right now, 
       align="center"
     />
     <img 
-      src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white" 
+      src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
       alt="C++"
       align="center"
     />
