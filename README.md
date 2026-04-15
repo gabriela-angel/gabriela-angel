@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Gabriela
 
 ## 👨‍💻 About Me
-I'm Gabriela Angel, a computer science student at FIAP and a software engineering student at 42 São Paulo. Right now, I'm expanding my knowledge of C, C++ and Python, intending to become a well-rounded developer who bridges logic and aesthetics.
+I'm Gabriela Angel, a computer science student at FIAP and a software engineering student at 42 São Paulo. Right now, I'm expanding my knowledge of C, C++ and Python, intending to become a well-rounded developer.
 
 ## 🛠️ Tech Stack
 <div>
